@@ -1,0 +1,10 @@
+pandas
+numpy
+sqlalchemy
+scikit-learn
+streamlit
+plotly
+dash
+flask
+python-dotenv
+requests
