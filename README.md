@@ -69,7 +69,7 @@ It integrates multiple databases, APIs, and SaaS tools into a unified monitoring
 
 ### 1️⃣ Clone the repository
 
-git clone https://github.com/yourusername/enterprise-data-quality.git
+git clone https://github.com/anisabidd88-pro/enterprise-data-quality-monitoring.git
 cd enterprise-data-quality
 2️⃣ Create a virtual environment
 
